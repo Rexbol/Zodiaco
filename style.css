@@ -1,12 +1,14 @@
 @import url('https://fonts.googleapis.com/css?family=Montserrat:400,800');
 /* Google fonts es un recurso muy util */
-body{
+html{
     background-color: #f6f5f7;
     background: url(https://i.imgur.com/9Ckshk6.jpg) center fixed;
     object-fit: fill;
-    font-family: 'Montserrat', sans-serif;
-    color: #3E363F;
     background-repeat: repeat-x;
+}
+
+body{
+    font-family: 'Montserrat', sans-serif;
 }
 
 #contenedor{
